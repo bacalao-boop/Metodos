@@ -1,0 +1,5 @@
+Primeros pasos|false|Jugar 3 partidas
+Estas ardiendo|false|Tener una racha de 3
+Puedes hacerlo mejor|true|Tener una racha de 0
+Estas mejorando|false|Jugar 6 partidas
+Toma un descanso|false|Jugar 12 partidas
